@@ -1,0 +1,27 @@
+--- main menu
+S> What would you like to do?
+
+--- artist name
+S> What would you like to do?
+U> find a painting's artist
+S> What painting?
+U> girl in a red dress
+S> The artist's name is *
+
+--- artist name (one-shot)
+U> who painted girl in a red dress
+S> The artist's name is *
+
+--- artist name (unknown artist) (TIMES OUT!)
+S> What would you like to do?
+U> find a painting's artist
+S> What painting?
+U> the painting is flowers and fruit in a blue tazza
+S> The artist's name is *
+
+--- painting medium 
+S> What would you like to do?
+U> i want to know the medium of a painting
+S> What painting?
+U> girl in a red dress
+S> The medium of the painting is *

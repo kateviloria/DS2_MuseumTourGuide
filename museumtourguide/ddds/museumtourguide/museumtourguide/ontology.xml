@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ontology name="MuseumtourguideOntology">
+
+    <predicate name="painting_to_search" sort="painting_title"/>
+    <sort name="painting_title" dynamic="true"/>
+
+    <individual name="painting_girl_in_a_red_dress" sort="painting_title"/>
+    <individual name="painting_study_of_trees" sort="painting_title"/>
+    <individual name="painting_flowers_and_fruit_in_a_blue_tazza" sort="painting_title"/>
+    <individual name="painting_woman_in_blue" sort="painting_title"/>
+
+
+
+    <predicate name="artist_name" sort="string"/>
+
+    <!--optional queries-->
+
+    <!--about the painting-->
+    <predicate name="medium" sort="string"/>
+
+    <!--about the painting
+    <predicate name="display_category" sort="string"/>
+    <predicate name="commentary" sort="string"/>
+    <predicate name="description" sort="string"/>
+    <predicate name="provenance" sort="string"/>
+    <predicate name="dated" sort="string"/>
+    <predicate name="labeltext" sort="string"/>
+    <predicate name="picture" sort="image"/>
+    -->
+
+    <!--about the artist
+    <predicate name="birthplace" sort="string"/>
+    <predicate name="culture" sort="string"/>
+    <predicate name="lifespan" sort="string"/>
+    -->
+
+
+</ontology>

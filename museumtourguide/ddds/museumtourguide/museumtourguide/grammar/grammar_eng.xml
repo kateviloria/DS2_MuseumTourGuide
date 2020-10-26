@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<grammar>
+
+  <action name="top">
+      <one-of>
+        <item>main menu</item>
+        <item>top</item>
+        <item>beginning</item>
+        <item>cancel</item>
+        <item>forget it</item>
+        <item>never mind</item>
+        <item>abort</item>
+      </one-of>
+    </action>
+    
+    <action name="up">
+      <one-of>
+        <item>up</item>
+        <item>back</item>
+        <item>go back</item>
+      </one-of>
+    </action>
+
+  <individual name="painting_girl_in_a_red_dress">
+    <one-of>
+      <item>175129</item>
+      <item>girl in a red dress</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_study_of_trees">
+    <one-of>
+      <item>213825</item>
+      <item>study of trees</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_flowers_and_fruit_in_a_blue_tazza">
+    <one-of>
+      <item>213307</item>
+      <item>flowers and fruit in a blue tazza</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_woman_in_blue">
+    <one-of>
+      <item>227565</item>
+      <item>woman in blue</item>
+    </one-of>
+  </individual>
+
+  <question type="wh_question" speaker="all" predicate="artist_name">artist name</question>
+  
+  <question speaker="system" type="goal">What would you like to do?</question>
+
+  <question speaker="system" predicate="painting_to_search" type="wh_question">What painting</question>
+
+  <answer speaker="system" predicate="artist_name">The artist's name is<slot predicate="artist_name" type="individual"/></answer>
+
+  <answer speaker="user">
+    <one-of>
+      <item>the painting is <slot predicate="painting_to_search" type="individual"/></item>
+      <item><slot predicate="painting_to_search" type="individual"/>is the title of the painting</item>
+    </one-of>
+  </answer>
+    
+  <question speaker="user" predicate="artist_name" type="wh_question">
+    <one-of>
+      <item>find a painting's artist</item>
+      <item>who painted <slot predicate="painting_to_search"/></item>
+      <item>who is the painter of <slot predicate="painting_to_search"/> </item>
+    </one-of>
+  </question>
+
+  <question type="wh_question" speaker="all" predicate="medium">medium</question>
+
+  <question speaker="user" predicate="medium" type="wh_question">
+    <one-of>
+      <item>i want to know the medium of a painting</item>
+      <item>what is the medium of <slot predicate="painting_to_search"/> </item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="medium">The medium of the painting is <slot predicate="medium" type="individual"/> </answer>
+    
+</grammar>

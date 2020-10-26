@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<service_interface>
+
+    <query name="artist_name">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/artist_name"/>
+        </target>
+    </query>
+
+    <query name="medium">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/medium"/>
+        </target>
+    </query>
+
+</service_interface>
