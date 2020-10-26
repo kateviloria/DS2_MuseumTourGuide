@@ -12,7 +12,7 @@ S> The artist's name is *
 U> who painted girl in a red dress
 S> The artist's name is *
 
---- artist name (unknown artist) (TIMES OUT!)
+--- artist name (unknown artist)
 S> What would you like to do?
 U> find a painting's artist
 S> What painting?

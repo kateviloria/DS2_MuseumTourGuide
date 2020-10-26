@@ -166,8 +166,9 @@ def artist_name():
     painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
     data = get_data(painting_title)
 
+    not_known = ["Unknown Artist", "Unidentified Artist"]
     # get artist name
-    if data["people"][0]["displayname"] == "Unknown Artist":
+    if data["people"][0]["displayname"] in not_known:
       artist_name = "unknown"
     else: # no data
       artist_name = data["people"][0]["displayname"]

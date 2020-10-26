@@ -9,7 +9,9 @@
     <individual name="painting_study_of_trees" sort="painting_title"/>
     <individual name="painting_flowers_and_fruit_in_a_blue_tazza" sort="painting_title"/>
     <individual name="painting_woman_in_blue" sort="painting_title"/>
-
+    
+    <individual name="painting_tribal_people_hunting_black_buck_at_night" sort="painting_title"/>
+    <individual name="painting_portrait_of_a_man" sort="painting_title"/>
 
 
     <predicate name="artist_name" sort="string"/>

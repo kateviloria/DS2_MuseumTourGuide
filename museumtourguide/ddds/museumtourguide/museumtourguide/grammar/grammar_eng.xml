@@ -50,6 +50,20 @@
     </one-of>
   </individual>
 
+  <individual name="painting_tribal_people_hunting_black_buck_at_night">
+    <one-of>
+      <item>215328</item>
+      <item>tribal people hunting black buck at night</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_portrait_of_a_man">
+    <one-of>
+      <item>230198</item>
+      <item>portrait of a man</item>
+    </one-of>
+  </individual>
+
   <question type="wh_question" speaker="all" predicate="artist_name">artist name</question>
   
   <question speaker="system" type="goal">What would you like to do?</question>
