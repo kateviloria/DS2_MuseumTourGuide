@@ -64,11 +64,21 @@
     </one-of>
   </individual>
 
+  <!--null dated-->
+  <individual name="painting_white_cat_and_red_flowers">
+    <one-of>
+      <item>202700</item>
+      <item>white cat and red flowers</item>
+    </one-of>
+  </individual>
+
   <question type="wh_question" speaker="all" predicate="artist_name">artist name</question>
   
   <question speaker="system" type="goal">What would you like to do?</question>
 
-  <question speaker="system" predicate="painting_to_search" type="wh_question">What painting</question>
+  <question speaker="system" predicate="painting_to_search" type="wh_question">What is the title of the painting</question>
+
+  <!--artist name-->
 
   <answer speaker="system" predicate="artist_name">The artist's name is<slot predicate="artist_name" type="individual"/></answer>
 
@@ -76,6 +86,7 @@
     <one-of>
       <item>the painting is <slot predicate="painting_to_search" type="individual"/></item>
       <item><slot predicate="painting_to_search" type="individual"/>is the title of the painting</item>
+      <item>the painting's title is <slot predicate="painting_to_search" type="individual"/> </item>
     </one-of>
   </answer>
     
@@ -84,8 +95,14 @@
       <item>find a painting's artist</item>
       <item>who painted <slot predicate="painting_to_search"/></item>
       <item>who is the painter of <slot predicate="painting_to_search"/> </item>
+      <item>who made <slot predicate="painting_to_search"/> </item>
+      <item>i want to know the artist of a painting</item>
+      <item>i want to know the artist of <slot predicate="painting_to_search"/> </item>
+      <item>the artist of <slot predicate="painting_to_search"/> </item>
     </one-of>
   </question>
+
+  <!--medium-->
 
   <question type="wh_question" speaker="all" predicate="medium">medium</question>
 
@@ -93,9 +110,24 @@
     <one-of>
       <item>i want to know the medium of a painting</item>
       <item>what is the medium of <slot predicate="painting_to_search"/> </item>
+      <item>the medium of<slot predicate="painting_to_search"/> </item>
     </one-of>
   </question>
 
   <answer speaker="system" predicate="medium">The medium of the painting is <slot predicate="medium" type="individual"/> </answer>
-    
+  
+  <!--dated-->
+  <question type="wh_question" speaker="all" predicate="dated">dated</question>
+
+  <question speaker="user" predicate="dated" type="wh_question">
+    <one-of>
+      <item>i want to know when a painting was made</item>
+      <item>when was the painting <slot predicate="painting_to_search"/> made </item>
+      <item>when was <slot predicate="painting_to_search"/> made </item>
+      <item>time period when <slot predicate="painting_to_search"/> was made </item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="dated">The painting's date of creation is <slot predicate="dated" type="individual"/> </answer>
+
 </grammar>

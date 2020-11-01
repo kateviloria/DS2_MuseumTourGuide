@@ -20,4 +20,13 @@
         </target>
     </query>
 
+    <query name="dated">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/dated"/>
+        </target>
+    </query>
+
 </service_interface>

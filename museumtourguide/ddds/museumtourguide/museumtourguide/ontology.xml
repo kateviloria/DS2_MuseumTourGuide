@@ -13,6 +13,8 @@
     <individual name="painting_tribal_people_hunting_black_buck_at_night" sort="painting_title"/>
     <individual name="painting_portrait_of_a_man" sort="painting_title"/>
 
+    <individual name="painting_white_cat_and_red_flowers" sort="painting_title"/>
+
 
     <predicate name="artist_name" sort="string"/>
 
@@ -20,13 +22,13 @@
 
     <!--about the painting-->
     <predicate name="medium" sort="string"/>
+    <predicate name="dated" sort="string"/>
 
     <!--about the painting
     <predicate name="display_category" sort="string"/>
     <predicate name="commentary" sort="string"/>
     <predicate name="description" sort="string"/>
     <predicate name="provenance" sort="string"/>
-    <predicate name="dated" sort="string"/>
     <predicate name="labeltext" sort="string"/>
     <predicate name="picture" sort="image"/>
     -->

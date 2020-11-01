@@ -4,7 +4,7 @@ S> What would you like to do?
 --- artist name
 S> What would you like to do?
 U> find a painting's artist
-S> What painting?
+S> What is the title of the painting?
 U> girl in a red dress
 S> The artist's name is *
 
@@ -15,13 +15,25 @@ S> The artist's name is *
 --- artist name (unknown artist)
 S> What would you like to do?
 U> find a painting's artist
-S> What painting?
+S> What is the title of the painting?
 U> the painting is flowers and fruit in a blue tazza
 S> The artist's name is *
 
 --- painting medium 
 S> What would you like to do?
 U> i want to know the medium of a painting
-S> What painting?
+S> What is the title of the painting?
 U> girl in a red dress
 S> The medium of the painting is *
+
+--- painting dated 
+U> i want to know when a painting was made
+S> What is the title of the painting?
+U> the painting's title is portrait of a man
+S> The painting's date of creation is *
+
+--- painting dated (null)
+U> i want to know when a painting was made
+S> What is the title of the painting?
+U> white cat and red flowers
+S> The painting's date of creation is *

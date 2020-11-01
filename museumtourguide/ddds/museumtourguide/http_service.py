@@ -185,3 +185,17 @@ def medium():
     medium = data["medium"]
 
     return query_response(value=medium, grammar_entry=None)
+
+@app.route("/dated", methods=['POST'])
+def dated():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get date of creation
+    if data["dated"] is None: # null 
+      dated = "unknown"
+    else:
+      dated = data["dated"]
+    print(dated)
+    return query_response(value=dated, grammar_entry=None)

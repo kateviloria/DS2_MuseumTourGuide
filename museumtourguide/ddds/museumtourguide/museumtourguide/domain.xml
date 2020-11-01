@@ -22,5 +22,12 @@
         <invoke_service_query type="wh_question" predicate="medium"/>
     </plan>
   </goal>
-  
+
+  <goal type="resolve" question_type="wh_question" predicate="dated">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="dated"/>
+    </plan>
+  </goal>
+
 </domain>
