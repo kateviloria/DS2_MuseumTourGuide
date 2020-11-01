@@ -102,6 +102,7 @@
     </one-of>
   </question>
 
+
   <!--medium-->
 
   <question type="wh_question" speaker="all" predicate="medium">medium</question>
@@ -116,7 +117,9 @@
 
   <answer speaker="system" predicate="medium">The medium of the painting is <slot predicate="medium" type="individual"/> </answer>
   
+
   <!--dated-->
+
   <question type="wh_question" speaker="all" predicate="dated">dated</question>
 
   <question speaker="user" predicate="dated" type="wh_question">
@@ -130,4 +133,92 @@
 
   <answer speaker="system" predicate="dated">The painting's date of creation is <slot predicate="dated" type="individual"/> </answer>
 
+
+  <!--display category (genre/time period of painting-->
+
+  <question type="wh_question" speaker="all" predicate="display_category">category</question>
+
+  <question speaker="user" predicate="display_category" type="wh_question">
+    <one-of>
+      <item>i want to know the genre of a painting</item>
+      <item>display category of a painting</item>
+      <item>what is the genre of <slot predicate="painting_to_search"/> </item>
+      <item>what is the display category of <slot predicate="painting_to_search"/> </item>
+      <item>genre of <slot predicate="painting_to_search"/> </item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="display_category">The painting's display category is <slot predicate="display_category" type="individual"/> </answer>
+
+
+  <!--label text (what is seen in the placards in museums)-->
+
+  <question type="wh_question" speaker="all" predicate="label_text">painting's label</question>
+
+  <question speaker="user" predicate="label_text" type="wh_question">
+    <one-of>
+      <item>i want to know what the placard by a painting says</item>
+      <item>label text of a painting</item>
+      <item>what does the label say for the painting <slot predicate="painting_to_search"/> </item>
+      <item><slot predicate="painting_to_search"/>'s label </item>
+      <item>placard of <slot predicate="painting_to_search"/> </item>
+      <item>what does it say in the card beside <slot predicate="painting_to_search"/> </item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="label_text">The painting's placard says <slot predicate="label_text" type="individual"/> </answer>
+
+
+  <!--provenance (history of ownership; how did Harvard acquire the piece of art)-->
+
+  <question type="wh_question" speaker="all" predicate="provenance">provenance</question>
+
+  <question speaker="user" predicate="provenance" type="wh_question">
+    <one-of>
+      <item>i want to know the provenance of a painting</item>
+      <item>history of ownership of a painting</item>
+      <item>how did Harvard acquire <slot predicate="painting_to_search"/> </item>
+      <item><slot predicate="painting_to_search"/>'s history of ownership</item>
+      <item>who has owned <slot predicate="painting_to_search"/> before</item>
+      <item>who owns <slot predicate="painting_to_search"/> </item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="provenance">The painting's history of ownership is <slot predicate="provenance" type="individual"/> </answer>
+
+
+  <!--visual description (describing the contents of the painting)-->
+
+  <question type="wh_question" speaker="all" predicate="visual_description">visual description</question>
+
+  <question speaker="user" predicate="visual_description" type="wh_question">
+    <one-of>
+      <item>what is in the painting</item>
+      <item>describe the painting</item>
+      <item>what's the description of <slot predicate="painting_to_search"/> </item>
+      <item><slot predicate="painting_to_search"/>'s description</item>
+      <item>describe <slot predicate="painting_to_search"/> </item>
+      <item>what does <slot predicate="painting_to_search"/> look like</item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="visual_description">The painting's visual description is <slot predicate="visual_description" type="individual"/> </answer>
+
+
+  <!--commentary (any analysis on painting)-->
+
+  <question type="wh_question" speaker="all" predicate="commentary">commentary</question>
+
+  <question speaker="user" predicate="commentary" type="wh_question">
+    <one-of>
+      <item>what is the commentary on a painting</item>
+      <item>analysis on the painting</item>
+      <item>what's the analysis of the painting <slot predicate="painting_to_search"/> </item>
+      <item><slot predicate="painting_to_search"/>'s analysis</item>
+      <item>describe the analysis of <slot predicate="painting_to_search"/> </item>
+      <item>what do experts say about <slot predicate="painting_to_search"/> </item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="commentary">The analysis of the painting is <slot predicate="commentary" type="individual"/> </answer>
 </grammar>

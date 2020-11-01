@@ -30,4 +30,39 @@
     </plan>
   </goal>
 
+  <goal type="resolve" question_type="wh_question" predicate="display_category">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="display_category"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="label_text">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="label_text"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="provenance">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="provenance"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="visual_description">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="visual_description"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="commentary">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="commentary"/>
+    </plan>
+  </goal>
+
 </domain>

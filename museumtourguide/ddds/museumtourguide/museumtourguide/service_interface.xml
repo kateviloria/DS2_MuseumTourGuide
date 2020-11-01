@@ -29,4 +29,49 @@
         </target>
     </query>
 
+    <query name="display_category">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/display_category"/>
+        </target>
+    </query>
+
+    <query name="label_text">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/label_text"/>
+        </target>
+    </query>
+
+    <query name="provenance">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/provenance"/>
+        </target>
+    </query>
+
+    <query name="visual_description">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/visual_description"/>
+        </target>
+    </query>
+
+    <query name="commentary">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/commentary"/>
+        </target>
+    </query>
+
 </service_interface>

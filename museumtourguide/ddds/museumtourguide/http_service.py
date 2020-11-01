@@ -197,5 +197,76 @@ def dated():
       dated = "unknown"
     else:
       dated = data["dated"]
-    print(dated)
+
     return query_response(value=dated, grammar_entry=None)
+
+@app.route("/display_category", methods=['POST'])
+def display_category():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get date of creation
+    if data["division"] is None: # null 
+      display_category = "unknown"
+    else:
+      display_category = data["division"]
+
+    return query_response(value=display_category, grammar_entry=None)
+
+@app.route("/label_text", methods=['POST'])
+def label_text():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get text beside painting in display
+    if data["labeltext"] is None: # null 
+      label_text = "unavailable"
+    else:
+      label_text = data["labeltext"]
+
+    return query_response(value=label_text, grammar_entry=None)
+
+@app.route("/provenance", methods=['POST'])
+def provenance():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get history of ownership of painting
+    if data["provenance"] is None: # null 
+      provenance = "unavailable"
+    else:
+      provenance = data["provenance"]
+
+    return query_response(value=provenance, grammar_entry=None)
+
+@app.route("/visual_description", methods=['POST'])
+def visual_description():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get visual description of painting
+    if data["description"] is None: # null 
+      visual_description = "unavailable"
+    else:
+      visual_description = data["description"]
+
+    return query_response(value=visual_description, grammar_entry=None)
+
+@app.route("/commentary", methods=['POST'])
+def commentary():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get analysis/comments of painting
+    if data["commentary"] is None: # null 
+      commentary = "unavailable"
+    else:
+      commentary = data["commentary"]
+
+    print(commentary)
+    return query_response(value=commentary, grammar_entry=None)

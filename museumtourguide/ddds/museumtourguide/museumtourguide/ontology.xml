@@ -23,13 +23,14 @@
     <!--about the painting-->
     <predicate name="medium" sort="string"/>
     <predicate name="dated" sort="string"/>
+    <predicate name="display_category" sort="string"/>
+    <predicate name="label_text" sort="string"/>
+    <predicate name="provenance" sort="string"/>
+    <predicate name="visual_description" sort="string"/>
+    <predicate name="commentary" sort="string"/>
 
     <!--about the painting
-    <predicate name="display_category" sort="string"/>
-    <predicate name="commentary" sort="string"/>
-    <predicate name="description" sort="string"/>
-    <predicate name="provenance" sort="string"/>
-    <predicate name="labeltext" sort="string"/>
+    
     <predicate name="picture" sort="image"/>
     -->
 

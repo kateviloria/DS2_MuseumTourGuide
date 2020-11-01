@@ -37,3 +37,21 @@ U> i want to know when a painting was made
 S> What is the title of the painting?
 U> white cat and red flowers
 S> The painting's date of creation is *
+
+--- display category (one-shot)
+U> what is the genre of study of trees
+S> The painting's display category is *
+
+--- label text
+U> i want to know what the placard by a painting says
+S> What is the title of the painting?
+U> study of trees
+S> The painting's placard says *
+
+--- visual description (one-shot)
+U> describe flowers and fruit in a blue tizzy
+S> The painting's visual description is *
+
+--- commentary (one-shot)
+U> what do experts say about girl in a red dress
+S> The analysis of the painting is *
