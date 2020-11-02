@@ -65,4 +65,32 @@
     </plan>
   </goal>
 
+  <goal type="resolve" question_type="wh_question" predicate="birthplace">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="birthplace"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="culture">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="culture"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="lifespan">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="lifespan"/>
+    </plan>
+  </goal>
+
+  <goal type="resolve" question_type="wh_question" predicate="picture">
+    <plan>
+      <findout type="wh_question" predicate="painting_to_search"/>
+        <invoke_service_query type="wh_question" predicate="picture"/>
+    </plan>
+  </goal>
+
 </domain>

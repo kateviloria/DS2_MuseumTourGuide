@@ -15,10 +15,21 @@
 
     <individual name="painting_white_cat_and_red_flowers" sort="painting_title"/>
 
+    <individual name="painting_an_account_of_some_of_the_descendants_of_captain_thomas_brattle" sort="painting_title"/>
+    <individual name="painting_the_small_bathers" sort="painting_title"/>
+    <individual name="painting_mother_and_daughter" sort="painting_title"/>
+    <individual name="painting_the_pomegranate" sort="painting_title"/>
+    <individual name="painting_skating" sort="painting_title"/>
+    <individual name="painting_actors" sort="painting_title"/>
+    <individual name="painting_untitled_study_for_harvard_murals_recto_and_verso" sort="painting_title"/>
+    <individual name="painting_four_horsemen_of_the_apocalypse" sort="painting_title"/>
+    <individual name="painting_monte_carlo_bond" sort="painting_title"/>
+    <individual name="painting_composition_with_blue_black_yellow_and_red" sort="painting_title"/>
+
 
     <predicate name="artist_name" sort="string"/>
 
-    <!--optional queries-->
+    <!--OPTIONAL QUERIES-->
 
     <!--about the painting-->
     <predicate name="medium" sort="string"/>
@@ -28,17 +39,12 @@
     <predicate name="provenance" sort="string"/>
     <predicate name="visual_description" sort="string"/>
     <predicate name="commentary" sort="string"/>
+    <!-- <predicate name="picture" sort="image"/> -->
+    <predicate name="picture" sort="string"/>
 
-    <!--about the painting
-    
-    <predicate name="picture" sort="image"/>
-    -->
-
-    <!--about the artist
+    <!--about the artist-->
     <predicate name="birthplace" sort="string"/>
     <predicate name="culture" sort="string"/>
     <predicate name="lifespan" sort="string"/>
-    -->
-
 
 </ontology>

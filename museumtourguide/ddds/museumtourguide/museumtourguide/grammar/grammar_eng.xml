@@ -72,9 +72,87 @@
     </one-of>
   </individual>
 
+  <individual name="painting_an_account_of_some_of_the_descendants_of_captain_thomas_brattle">
+    <one-of>
+      <item>227540</item>
+      <item>an account of some of the descendants of captain thomas brattle</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_the_small_bathers">
+    <one-of>
+      <item>264367</item>
+      <item>the small bathers</item>
+      <item>small bathers</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_mother_and_daughter">
+    <one-of>
+      <item>296887</item>
+      <item>mother and daughter</item>
+    </one-of>
+  </individual>
+
+  <individual name="painting_the_pomegranate">
+    <one-of>
+      <item>222185</item>
+      <item>the pomegranate</item>
+      <item>pomegranate</item>
+    </one-of>
+  </individual>
+
+  <!--original title in french-->
+  <individual name="painting_skating">
+    <one-of>
+      <item>299842</item>
+      <item>skating</item>
+      <item>au skating</item>
+    </one-of>
+  </individual>
+
+  <!--original title in german and alternative titles in english-->
+  <individual name="painting_actors">
+    <one-of>
+      <item>300054</item>
+      <item>actors</item>
+      <item>the actors</item>
+      <item>schauspieler</item>
+    </one-of>
+  </individual>
+
+  <!--untitled with parentheses-->
+  <individual name="painting_untitled_study_for_harvard_murals_recto_and_verso">
+    <one-of>
+      <item>309353</item>
+      <item>untitled study for harvard murals recto and verso</item>
+    </one-of>  
+  </individual>
+
+  <individual name="painting_four_horsemen_of_the_apocalypse">
+    <one-of>
+      <item>238178</item>
+      <item>four horsemen of the apocalypse</item>
+    </one-of>  
+  </individual>
+
+  <individual name="painting_monte_carlo_bond">
+    <one-of>
+      <item>333587</item>
+      <item>monte carlo bond</item>
+    </one-of>  
+  </individual>
+
+  <individual name="painting_composition_with_blue_black_yellow_and_red">
+    <one-of>
+      <item>181354</item>
+      <item>composition with blue black yellow and red</item>
+    </one-of>  
+  </individual>
+
   <question type="wh_question" speaker="all" predicate="artist_name">artist name</question>
   
-  <question speaker="system" type="goal">What would you like to do?</question>
+  <question speaker="system" type="goal">Hello. Welcome to Harvard Art Museums. What would you like to do?</question>
 
   <question speaker="system" predicate="painting_to_search" type="wh_question">What is the title of the painting</question>
 
@@ -99,6 +177,10 @@
       <item>i want to know the artist of a painting</item>
       <item>i want to know the artist of <slot predicate="painting_to_search"/> </item>
       <item>the artist of <slot predicate="painting_to_search"/> </item>
+      <item>who painted it</item>
+      <item>who was its artist</item>
+      <item>who made it</item>
+      <item>who was the painter</item>
     </one-of>
   </question>
 
@@ -112,6 +194,9 @@
       <item>i want to know the medium of a painting</item>
       <item>what is the medium of <slot predicate="painting_to_search"/> </item>
       <item>the medium of<slot predicate="painting_to_search"/> </item>
+      <item>what is its medium</item>
+      <item>what is it made of</item>
+      <item>what's its medium</item>
     </one-of>
   </question>
 
@@ -128,6 +213,10 @@
       <item>when was the painting <slot predicate="painting_to_search"/> made </item>
       <item>when was <slot predicate="painting_to_search"/> made </item>
       <item>time period when <slot predicate="painting_to_search"/> was made </item>
+      <item>when was it made</item>
+      <item>when did the artist finish it</item>
+      <item>when did the artist finish making <slot predicate="painting_to_search"/></item>
+      <item>how long did it take to make</item>
     </one-of>
   </question>
 
@@ -145,6 +234,8 @@
       <item>what is the genre of <slot predicate="painting_to_search"/> </item>
       <item>what is the display category of <slot predicate="painting_to_search"/> </item>
       <item>genre of <slot predicate="painting_to_search"/> </item>
+      <item>under what category is it under</item>
+      <item>what is its genre</item>
     </one-of>
   </question>
 
@@ -163,6 +254,11 @@
       <item><slot predicate="painting_to_search"/>'s label </item>
       <item>placard of <slot predicate="painting_to_search"/> </item>
       <item>what does it say in the card beside <slot predicate="painting_to_search"/> </item>
+      <item>what does the placard say</item>
+      <item>read me the placard's description</item>
+      <item>what does the sign say</item>
+      <item>what does it say beside the painting</item>
+      <item>what does it say beside it</item>
     </one-of>
   </question>
 
@@ -181,6 +277,10 @@
       <item><slot predicate="painting_to_search"/>'s history of ownership</item>
       <item>who has owned <slot predicate="painting_to_search"/> before</item>
       <item>who owns <slot predicate="painting_to_search"/> </item>
+      <item>who has owned it before</item>
+      <item>how did it get to Harvard</item>
+      <item>how did it get here</item>
+      <item>who owns it</item>
     </one-of>
   </question>
 
@@ -199,6 +299,9 @@
       <item><slot predicate="painting_to_search"/>'s description</item>
       <item>describe <slot predicate="painting_to_search"/> </item>
       <item>what does <slot predicate="painting_to_search"/> look like</item>
+      <item>what's in the painting</item>
+      <item>give me a description</item>
+      <item>what does it look like</item>
     </one-of>
   </question>
 
@@ -212,13 +315,99 @@
   <question speaker="user" predicate="commentary" type="wh_question">
     <one-of>
       <item>what is the commentary on a painting</item>
-      <item>analysis on the painting</item>
+      <item>analysis of a painting</item>
       <item>what's the analysis of the painting <slot predicate="painting_to_search"/> </item>
       <item><slot predicate="painting_to_search"/>'s analysis</item>
       <item>describe the analysis of <slot predicate="painting_to_search"/> </item>
       <item>what do experts say about <slot predicate="painting_to_search"/> </item>
+      <item>give me the analysis of the painting</item>
+      <item>i want an expert's analysis</item>
+      <item>analysis of <slot predicate="painting_to_search"/> </item>
+      <item>analysis of the painting></item>
     </one-of>
   </question>
 
   <answer speaker="system" predicate="commentary">The analysis of the painting is <slot predicate="commentary" type="individual"/> </answer>
+
+
+  <!--birthplace of artist-->
+
+  <question type="wh_question" speaker="all" predicate="birthplace">birthplace</question>
+
+  <question speaker="user" predicate="birthplace" type="wh_question">
+    <one-of>
+      <item>what was the birthplace of the artist who painted <slot predicate="painting_to_search"/></item>
+      <item>where was the artist of this painting born</item>
+      <item><slot predicate="painting_to_search"/>'s artist's birthplace</item>
+      <item>find birthplace of this painting's artist </item>
+      <item>where were they born</item>
+      <item>where are they from</item>
+      <item>where was their birthplace</item>
+      <item>born where</item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="birthplace">The birthplace of this painting's artist is <slot predicate="birthplace" type="individual"/> </answer>
+
+
+  <!--nationality of artist-->
+
+  <question type="wh_question" speaker="all" predicate="culture">nationality</question>
+
+  <question speaker="user" predicate="culture" type="wh_question">
+    <one-of>
+      <item>what was the nationality of the artist who painted <slot predicate="painting_to_search"/></item>
+      <item>nationality of the artist of a painting </item>
+      <item>the nationality of the artist of <slot predicate="painting_to_search"/> </item>
+      <item>find nationality of this painting's artist </item>
+      <item>nationality of a painting's artist </item>
+      <item>what is the artist's nationality</item>
+      <item>what's their nationality</item>
+      <item>what is their nationality</item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="culture">The nationality of this painting's artist is <slot predicate="culture" type="individual"/> </answer>
+
+
+  <!--lifespan of artist-->
+
+  <question type="wh_question" speaker="all" predicate="lifespan">lifespan</question>
+
+  <question speaker="user" predicate="lifespan" type="wh_question">
+    <one-of>
+      <item>what was the lifespan of the artist who painted <slot predicate="painting_to_search"/></item>
+      <item>lifespan of the artist of a painting </item>
+      <item>the lifespan of the artist of <slot predicate="painting_to_search"/> </item>
+      <item>find lifespan of this painting's artist </item>
+      <item>lifespan of a painting's artist </item>
+      <item>how long was a painting's artist alive</item>
+      <item>how long did the artist of<slot predicate="painting_to_search"/> live</item>
+      <item>how long did its artist live</item>
+      <item>lifespan of the artist</item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="lifespan">The lifespan of this painting's artist is <slot predicate="lifespan" type="individual"/> </answer>
+
+  <!--picture of painting-->
+
+  <question type="wh_question" speaker="all" predicate="picture">picture of painting</question>
+
+  <question speaker="user" predicate="picture" type="wh_question">
+    <one-of>
+      <item>get url image of a painting</item>
+      <item>send me a copy of <slot predicate="painting_to_search"/></item>
+      <item>show me <slot predicate="painting_to_search"/> on my phone</item>
+      <item>save picture of <slot predicate="painting_to_search"/> </item>
+      <item>give me its image URL</item>
+      <item>give me the link to a picture</item>
+      <item>i need a link to a picture</item>
+      <item>link to the painting</item>
+      <item>image URL of <slot predicate="painting_to_search"/></item>
+    </one-of>
+  </question>
+
+  <answer speaker="system" predicate="picture">Here is the painting's image URL <slot predicate="picture" type="individual"/> </answer>
+
 </grammar>

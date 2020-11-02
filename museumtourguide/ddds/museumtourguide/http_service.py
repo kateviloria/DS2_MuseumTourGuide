@@ -254,6 +254,8 @@ def visual_description():
     else:
       visual_description = data["description"]
 
+    visual_description = visual_description.replace('"', "'")
+
     return query_response(value=visual_description, grammar_entry=None)
 
 @app.route("/commentary", methods=['POST'])
@@ -268,5 +270,68 @@ def commentary():
     else:
       commentary = data["commentary"]
 
-    print(commentary)
+    commentary = commentary.replace('"', "'")
+
     return query_response(value=commentary, grammar_entry=None)
+
+
+# about the artist
+
+@app.route("/birthplace", methods=['POST'])
+def birthplace():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get birthplace of painting's artist
+    if data["people"][0]["birthplace"] is None: # null 
+      birthplace = "unknown"
+    else:
+      birthplace = data["people"][0]["birthplace"]
+
+    return query_response(value=birthplace, grammar_entry=None)
+
+@app.route("/culture", methods=['POST'])
+def culture():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get nationality of painting's artist
+    if data["people"][0]["culture"] is None: # null 
+      culture = "unknown"
+    else:
+      culture = data["people"][0]["culture"]
+
+    return query_response(value=culture, grammar_entry=None)
+
+@app.route("/lifespan", methods=['POST'])
+def lifespan():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get lifespan of painting's artist
+    if data["people"][0]["displaydate"] is None: # null 
+      lifespan = "unknown"
+    else:
+      lifespan = data["people"][0]["displaydate"]
+
+    return query_response(value=lifespan, grammar_entry=None)
+
+
+# get image url of painting
+
+@app.route("/picture", methods=['POST'])
+def picture():
+    payload = request.get_json()
+    painting_title = payload["context"]["facts"]["painting_to_search"]["grammar_entry"]
+    data = get_data(painting_title)
+
+    # get image url of painting
+    if data["images"][0]["baseimageurl"] is None: # null 
+      url_image = "Unavailable"
+    else:
+      url_image = data["images"][0]["baseimageurl"]
+    
+    return query_response(value=url_image, grammar_entry=None)

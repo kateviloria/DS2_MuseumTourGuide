@@ -74,4 +74,40 @@
         </target>
     </query>
 
+    <query name="birthplace">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/birthplace"/>
+        </target>
+    </query>
+
+    <query name="culture">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/culture"/>
+        </target>
+    </query>
+
+    <query name="lifespan">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/lifespan"/>
+        </target>
+    </query>
+
+    <query name="picture">
+        <parameters>
+            <parameter predicate="painting_to_search" format="grammar_entry"/>
+        </parameters>
+        <target>
+            <http endpoint="http://http-service/picture"/>
+        </target>
+    </query>
+
 </service_interface>

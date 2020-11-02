@@ -49,9 +49,29 @@ U> study of trees
 S> The painting's placard says *
 
 --- visual description (one-shot)
-U> describe flowers and fruit in a blue tizzy
+U> describe flowers and fruit in a blue tazza
 S> The painting's visual description is *
 
 --- commentary (one-shot)
 U> what do experts say about girl in a red dress
 S> The analysis of the painting is *
+
+--- commentary (unknown)
+U> analysis of a painting
+S> What is the title of the painting?
+U> study of trees
+S> The analysis of the painting is *
+
+--- birthplace
+U> where was the artist of this painting born
+S> What is the title of the painting?
+U> study of trees
+S> The birthplace of this painting's artist is *
+
+--- nationality (one-shot)
+U> what was the nationality of the artist who painted woman in blue
+S> The nationality of this painting's artist is *
+
+--- picture (image url of painting)
+U> show me study of trees on my phone
+S> Here is the painting's image URL *
