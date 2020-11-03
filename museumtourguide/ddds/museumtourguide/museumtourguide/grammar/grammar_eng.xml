@@ -19,6 +19,9 @@
         <item>up</item>
         <item>back</item>
         <item>go back</item>
+        <item>okay</item>
+        <item>thank you</item>
+        <item>okay, thank you</item>
       </one-of>
     </action>
 
@@ -33,6 +36,8 @@
     <one-of>
       <item>213825</item>
       <item>study of trees</item>
+      <item>arbres</item>
+      <item>winding road</item>
     </one-of>
   </individual>
 
@@ -197,6 +202,7 @@
       <item>what is its medium</item>
       <item>what is it made of</item>
       <item>what's its medium</item>
+      <item>what is the medium of the painting</item>
     </one-of>
   </question>
 
@@ -274,6 +280,7 @@
       <item>i want to know the provenance of a painting</item>
       <item>history of ownership of a painting</item>
       <item>how did Harvard acquire <slot predicate="painting_to_search"/> </item>
+      <item>i would like to know how the painting <slot predicate="painting_to_search"/> was acquired by Harvard Museum</item>
       <item><slot predicate="painting_to_search"/>'s history of ownership</item>
       <item>who has owned <slot predicate="painting_to_search"/> before</item>
       <item>who owns <slot predicate="painting_to_search"/> </item>
@@ -405,6 +412,7 @@
       <item>i need a link to a picture</item>
       <item>link to the painting</item>
       <item>image URL of <slot predicate="painting_to_search"/></item>
+      <item>can i see a picture on my phone</item>
     </one-of>
   </question>
 

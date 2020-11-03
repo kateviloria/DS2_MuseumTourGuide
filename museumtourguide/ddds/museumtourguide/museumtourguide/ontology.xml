@@ -26,7 +26,6 @@
     <individual name="painting_monte_carlo_bond" sort="painting_title"/>
     <individual name="painting_composition_with_blue_black_yellow_and_red" sort="painting_title"/>
 
-
     <predicate name="artist_name" sort="string"/>
 
     <!--OPTIONAL QUERIES-->
