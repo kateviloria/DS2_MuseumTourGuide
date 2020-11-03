@@ -330,7 +330,7 @@ def picture():
 
     # get image url of painting
     if data["images"][0]["baseimageurl"] is None: # null 
-      url_image = "Unavailable"
+      url_image = "unavailable"
     else:
       url_image = data["images"][0]["baseimageurl"]
     
