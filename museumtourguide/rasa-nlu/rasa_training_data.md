@@ -1,0 +1,2441 @@
+## intent:museumtourguide:question::artist_name
+- find a painting's artist
+- who painted [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who is the painter of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who made [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of a painting
+- i want to know the artist of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i want to know the artist of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the artist of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who painted it
+- who was its artist
+- who made it
+- who was the painter
+
+## intent:museumtourguide:question::medium
+- i want to know the medium of a painting
+- what is the medium of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the medium of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the medium of[composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is its medium
+- what is it made of
+- what's its medium
+- what is the medium of the painting
+
+## intent:museumtourguide:question::dated
+- i want to know when a painting was made
+- when was the painting [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was the painting [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- when was [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} made
+- time period when [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- time period when [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was made
+- when was it made
+- when did the artist finish it
+- when did the artist finish making [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- when did the artist finish making [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how long did it take to make
+
+## intent:museumtourguide:question::display_category
+- i want to know the genre of a painting
+- display category of a painting
+- what is the genre of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the genre of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what is the display category of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- genre of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- under what category is it under
+- what is its genre
+
+## intent:museumtourguide:question::label_text
+- i want to know what the placard by a painting says
+- label text of a painting
+- what does the label say for the painting [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the label say for the painting [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s label
+- placard of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- placard of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does it say in the card beside [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does the placard say
+- read me the placard's description
+- what does the sign say
+- what does it say beside the painting
+- what does it say beside it
+
+## intent:museumtourguide:question::provenance
+- i want to know the provenance of a painting
+- history of ownership of a painting
+- how did Harvard acquire [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- how did Harvard acquire [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- i would like to know how the painting [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- i would like to know how the painting [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} was acquired by Harvard Museum
+- [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s history of ownership
+- who has owned [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who has owned [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} before
+- who owns [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who owns [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- who has owned it before
+- how did it get to Harvard
+- how did it get here
+- who owns it
+
+## intent:museumtourguide:question::visual_description
+- what is in the painting
+- describe the painting
+- what's the description of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the description of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s description
+- describe [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what does [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what does [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} look like
+- what's in the painting
+- give me a description
+- what does it look like
+
+## intent:museumtourguide:question::commentary
+- what is the commentary on a painting
+- analysis of a painting
+- what's the analysis of the painting [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what's the analysis of the painting [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s analysis
+- describe the analysis of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- describe the analysis of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what do experts say about [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- give me the analysis of the painting
+- i want an expert's analysis
+- analysis of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- analysis of the painting>
+
+## intent:museumtourguide:question::birthplace
+- what was the birthplace of the artist who painted [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the birthplace of the artist who painted [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- where was the artist of this painting born
+- [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}'s artist's birthplace
+- find birthplace of this painting's artist
+- where were they born
+- where are they from
+- where was their birthplace
+- born where
+
+## intent:museumtourguide:question::culture
+- what was the nationality of the artist who painted [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the nationality of the artist who painted [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- nationality of the artist of a painting
+- the nationality of the artist of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the nationality of the artist of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- find nationality of this painting's artist
+- nationality of a painting's artist
+- what is the artist's nationality
+- what's their nationality
+- what is their nationality
+
+## intent:museumtourguide:question::lifespan
+- what was the lifespan of the artist who painted [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- what was the lifespan of the artist who painted [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- lifespan of the artist of a painting
+- the lifespan of the artist of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the lifespan of the artist of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- find lifespan of this painting's artist
+- lifespan of a painting's artist
+- how long was a painting's artist alive
+- how long did the artist of[175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did the artist of[composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} live
+- how long did its artist live
+- lifespan of the artist
+
+## intent:museumtourguide:question::picture
+- get url image of a painting
+- send me a copy of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- send me a copy of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- show me [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- show me [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"} on my phone
+- save picture of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- save picture of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- give me its image URL
+- give me the link to a picture
+- i need a link to a picture
+- link to the painting
+- image URL of [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- image URL of [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- can i see a picture on my phone
+
+## intent:museumtourguide:answer
+- [single](museumtourguide.sort.string)
+- [double word](museumtourguide.sort.string)
+- [three in one](museumtourguide.sort.string)
+- [hey make it four](museumtourguide.sort.string)
+- [the more the merrier five](museumtourguide.sort.string)
+- [calm down and count to six](museumtourguide.sort.string)
+- [bring them through to the jolly seven](museumtourguide.sort.string)
+- [noone counts toes like an eight toed guy](museumtourguide.sort.string)
+- [it matters to make sense for nine of us](museumtourguide.sort.string)
+- [would you bring ten or none to a desert island](museumtourguide.sort.string)
+- [175129](museumtourguide.sort.painting_title)
+- [girl in a red dress](museumtourguide.sort.painting_title)
+- [213825](museumtourguide.sort.painting_title)
+- [study of trees](museumtourguide.sort.painting_title)
+- [arbres](museumtourguide.sort.painting_title)
+- [winding road](museumtourguide.sort.painting_title)
+- [213307](museumtourguide.sort.painting_title)
+- [flowers and fruit in a blue tazza](museumtourguide.sort.painting_title)
+- [227565](museumtourguide.sort.painting_title)
+- [woman in blue](museumtourguide.sort.painting_title)
+- [215328](museumtourguide.sort.painting_title)
+- [tribal people hunting black buck at night](museumtourguide.sort.painting_title)
+- [230198](museumtourguide.sort.painting_title)
+- [portrait of a man](museumtourguide.sort.painting_title)
+- [202700](museumtourguide.sort.painting_title)
+- [white cat and red flowers](museumtourguide.sort.painting_title)
+- [227540](museumtourguide.sort.painting_title)
+- [an account of some of the descendants of captain thomas brattle](museumtourguide.sort.painting_title)
+- [264367](museumtourguide.sort.painting_title)
+- [the small bathers](museumtourguide.sort.painting_title)
+- [small bathers](museumtourguide.sort.painting_title)
+- [296887](museumtourguide.sort.painting_title)
+- [mother and daughter](museumtourguide.sort.painting_title)
+- [222185](museumtourguide.sort.painting_title)
+- [the pomegranate](museumtourguide.sort.painting_title)
+- [pomegranate](museumtourguide.sort.painting_title)
+- [299842](museumtourguide.sort.painting_title)
+- [skating](museumtourguide.sort.painting_title)
+- [au skating](museumtourguide.sort.painting_title)
+- [300054](museumtourguide.sort.painting_title)
+- [actors](museumtourguide.sort.painting_title)
+- [the actors](museumtourguide.sort.painting_title)
+- [schauspieler](museumtourguide.sort.painting_title)
+- [309353](museumtourguide.sort.painting_title)
+- [untitled study for harvard murals recto and verso](museumtourguide.sort.painting_title)
+- [238178](museumtourguide.sort.painting_title)
+- [four horsemen of the apocalypse](museumtourguide.sort.painting_title)
+- [333587](museumtourguide.sort.painting_title)
+- [monte carlo bond](museumtourguide.sort.painting_title)
+- [181354](museumtourguide.sort.painting_title)
+- [composition with blue black yellow and red](museumtourguide.sort.painting_title)
+- the painting is [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting is [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}is the title of the painting
+- the painting's title is [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the painting's title is [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- the title is [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it is [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [175129]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [girl in a red dress]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [213825]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [study of trees]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [arbres]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [winding road]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [213307]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [flowers and fruit in a blue tazza]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [227565]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [woman in blue]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [215328]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [tribal people hunting black buck at night]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [230198]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [portrait of a man]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [202700]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [white cat and red flowers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [227540]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [an account of some of the descendants of captain thomas brattle]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [264367]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [the small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [small bathers]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [296887]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [mother and daughter]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [222185]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [the pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [pomegranate]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [299842]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [au skating]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [300054]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [the actors]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [schauspieler]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [309353]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [untitled study for harvard murals recto and verso]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [238178]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [four horsemen of the apocalypse]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [333587]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [monte carlo bond]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [181354]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+- it's [composition with blue black yellow and red]{"entity": "museumtourguide.sort.painting_title", "role": "museumtourguide.predicate.painting_to_search"}
+
+## intent:museumtourguide:answer_negation
+- not [175129](museumtourguide.sort.painting_title)
+- not [girl in a red dress](museumtourguide.sort.painting_title)
+- not [213825](museumtourguide.sort.painting_title)
+- not [study of trees](museumtourguide.sort.painting_title)
+- not [arbres](museumtourguide.sort.painting_title)
+- not [winding road](museumtourguide.sort.painting_title)
+- not [213307](museumtourguide.sort.painting_title)
+- not [flowers and fruit in a blue tazza](museumtourguide.sort.painting_title)
+- not [227565](museumtourguide.sort.painting_title)
+- not [woman in blue](museumtourguide.sort.painting_title)
+- not [215328](museumtourguide.sort.painting_title)
+- not [tribal people hunting black buck at night](museumtourguide.sort.painting_title)
+- not [230198](museumtourguide.sort.painting_title)
+- not [portrait of a man](museumtourguide.sort.painting_title)
+- not [202700](museumtourguide.sort.painting_title)
+- not [white cat and red flowers](museumtourguide.sort.painting_title)
+- not [227540](museumtourguide.sort.painting_title)
+- not [an account of some of the descendants of captain thomas brattle](museumtourguide.sort.painting_title)
+- not [264367](museumtourguide.sort.painting_title)
+- not [the small bathers](museumtourguide.sort.painting_title)
+- not [small bathers](museumtourguide.sort.painting_title)
+- not [296887](museumtourguide.sort.painting_title)
+- not [mother and daughter](museumtourguide.sort.painting_title)
+- not [222185](museumtourguide.sort.painting_title)
+- not [the pomegranate](museumtourguide.sort.painting_title)
+- not [pomegranate](museumtourguide.sort.painting_title)
+- not [299842](museumtourguide.sort.painting_title)
+- not [skating](museumtourguide.sort.painting_title)
+- not [au skating](museumtourguide.sort.painting_title)
+- not [300054](museumtourguide.sort.painting_title)
+- not [actors](museumtourguide.sort.painting_title)
+- not [the actors](museumtourguide.sort.painting_title)
+- not [schauspieler](museumtourguide.sort.painting_title)
+- not [309353](museumtourguide.sort.painting_title)
+- not [untitled study for harvard murals recto and verso](museumtourguide.sort.painting_title)
+- not [238178](museumtourguide.sort.painting_title)
+- not [four horsemen of the apocalypse](museumtourguide.sort.painting_title)
+- not [333587](museumtourguide.sort.painting_title)
+- not [monte carlo bond](museumtourguide.sort.painting_title)
+- not [181354](museumtourguide.sort.painting_title)
+- not [composition with blue black yellow and red](museumtourguide.sort.painting_title)
+
+## intent:NEGATIVE
+- aboard
+- about
+- above
+- across
+- after
+- against
+- along
+- among
+- as
+- at
+- on
+- atop
+- before
+- behind
+- below
+- beneath
+- beside
+- between
+- beyond
+- but
+- by
+- come
+- down
+- during
+- except
+- for
+- from
+- in
+- inside
+- into
+- less
+- like
+- near
+- of
+- off
+- on
+- onto
+- opposite
+- out
+- outside
+- over
+- past
+- save
+- short
+- since
+- than
+- then
+- through
+- throughout
+- to
+- toward
+- under
+- underneath
+- unlike
+- until
+- up
+- upon
+- with
+- within
+- without
+- worth
+- is
+- it
+- the
+- a
+- am
+- are
+- them
+- this
+- that
+- I
+- you
+- he
+- she
+- they
+- them
+- his
+- her
+- my
+- mine
+- their
+- your
+- us
+- our
+- how
+- how's
+- how is
+- how's the
+- how is the
+- when
+- when's
+- when is
+- when is the
+- when's the
+- what
+- what is
+- what's
+- what's the
+- what is the
+- why
+- why is
+- why's
+- why is the
+- why's the
+- do
+- make
+- tell
+- start
+- stop
+- enable
+- disable
+- raise
+- lower
+- decrease
+- increase
+- act
+- determine
+- say
+- ask
+- go
+- shoot
+- wait
+- hang on
+- ok
+- show
+- help
+
+## intent:yes
+- yes
+- yeah
+- yep
+- sure
+- ok
+- of course
+- very well
+- fine
+- right
+- excellent
+- okay
+- perfect
+- I think so
+
+## intent:no
+- no
+- nope
+- no thanks
+- no thank you
+- negative
+- don't want to
+- don't
+- do not
+- please don't
+
+## intent:top
+- forget it
+- never mind
+- get me out of here
+- start over
+- beginning
+- never mind that
+- restart
+
+## intent:up
+- go back
+- back
+- previous
+- back to the previous
+- go to the previous
+- go back to the previous one
+
+## synonym:museumtourguide:painting_girl_in_a_red_dress
+- 175129
+- girl in a red dress
+
+## synonym:museumtourguide:painting_study_of_trees
+- 213825
+- study of trees
+- arbres
+- winding road
+
+## synonym:museumtourguide:painting_flowers_and_fruit_in_a_blue_tazza
+- 213307
+- flowers and fruit in a blue tazza
+
+## synonym:museumtourguide:painting_woman_in_blue
+- 227565
+- woman in blue
+
+## synonym:museumtourguide:painting_tribal_people_hunting_black_buck_at_night
+- 215328
+- tribal people hunting black buck at night
+
+## synonym:museumtourguide:painting_portrait_of_a_man
+- 230198
+- portrait of a man
+
+## synonym:museumtourguide:painting_white_cat_and_red_flowers
+- 202700
+- white cat and red flowers
+
+## synonym:museumtourguide:painting_an_account_of_some_of_the_descendants_of_captain_thomas_brattle
+- 227540
+- an account of some of the descendants of captain thomas brattle
+
+## synonym:museumtourguide:painting_the_small_bathers
+- 264367
+- the small bathers
+- small bathers
+
+## synonym:museumtourguide:painting_mother_and_daughter
+- 296887
+- mother and daughter
+
+## synonym:museumtourguide:painting_the_pomegranate
+- 222185
+- the pomegranate
+- pomegranate
+
+## synonym:museumtourguide:painting_skating
+- 299842
+- skating
+- au skating
+
+## synonym:museumtourguide:painting_actors
+- 300054
+- actors
+- the actors
+- schauspieler
+
+## synonym:museumtourguide:painting_untitled_study_for_harvard_murals_recto_and_verso
+- 309353
+- untitled study for harvard murals recto and verso
+
+## synonym:museumtourguide:painting_four_horsemen_of_the_apocalypse
+- 238178
+- four horsemen of the apocalypse
+
+## synonym:museumtourguide:painting_monte_carlo_bond
+- 333587
+- monte carlo bond
+
+## synonym:museumtourguide:painting_composition_with_blue_black_yellow_and_red
+- 181354
+- composition with blue black yellow and red
+
